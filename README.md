@@ -1,6 +1,6 @@
 ## 开源贡献 / Open Source Contributions
 
-合并 **10** · 进行中 **2** · 已关闭 **9**
+合并 **9** · 进行中 **2** · 已关闭 **9**
 
 | 项目 | PR | 说明 | 状态 |
 | --- | --- | --- | --- |
@@ -30,6 +30,5 @@
 | mi-vueProgram | [#24](https://github.com/HongxuanG/mi-vueProgram/pull/24) | 更新 README | [![24](https://img.shields.io/github/pulls/detail/state/HongxuanG/mi-vueProgram/24)](https://github.com/HongxuanG/mi-vueProgram/pull/24) |
 | toy-vue3 | [#1](https://github.com/HongxuanG/toy-vue3/pull/1) | 调整 extend 引入方式 | [![1](https://img.shields.io/github/pulls/detail/state/HongxuanG/toy-vue3/1)](https://github.com/HongxuanG/toy-vue3/pull/1) |
 | v3hooks | [#5](https://github.com/yanzhandong/v3hooks/pull/5) | 去掉 useSessionStorage 中多余分号 | [![5](https://img.shields.io/github/pulls/detail/state/yanzhandong/v3hooks/5)](https://github.com/yanzhandong/v3hooks/pull/5) |
-| zhongwencool.github.io | [#45](https://github.com/zhongwencool/zhongwencool.github.io/pull/45) | 第一个 PR 实验 | [![45](https://img.shields.io/github/pulls/detail/state/zhongwencool/zhongwencool.github.io/45)](https://github.com/zhongwencool/zhongwencool.github.io/pull/45) |
 
 </details>
